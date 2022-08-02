@@ -1,1 +1,3 @@
-Login e Senha
+Email
+Senha
+Idade
